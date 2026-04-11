@@ -32,11 +32,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env
-.env.local
-.env.test
-.env.development
-.env.production
 
 # vercel
 .vercel
@@ -53,3 +48,4 @@ scripts/personal/
 product-development/
 .claude/
 .cache/
+config.bat
